@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileScanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileScanner_jar</output-path>
+    <root id="archive" name="FileScanner.jar">
+      <element id="module-output" name="FileScanner" />
+    </root>
+  </artifact>
+</component>
